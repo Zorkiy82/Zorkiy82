@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - https://www.codewars.com/users/Zorkiy82/badges/large
 
-- ![Начальное состояние страницы](https://www.codewars.com/users/Zorkiy82/badges/large)https://www.codewars.com/users/Zorkiy82/badges/large)
+- ![Начальное состояние страницы](https://www.codewars.com/users/Zorkiy82/badges/large)
 
