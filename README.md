@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - https://www.codewars.com/users/Zorkiy82/badges/large
 
-![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large)
+![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large) [перейти на www.codewars.com](https://www.codewars.com/users/Zorkiy82)
 
