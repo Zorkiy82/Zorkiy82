@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- https://www.codewars.com/users/Zorkiy82/badges/large
 
 ![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large) [перейти на www.codewars.com](https://www.codewars.com/users/Zorkiy82)
+
+[![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large)](https://www.codewars.com/users/Zorkiy82)
 
