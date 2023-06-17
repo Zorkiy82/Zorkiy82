@@ -9,6 +9,5 @@
 ### Мой стек:
 пппппппппппппппп
 
-### Мой прогресс на Codewars
-[![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large)](https://www.codewars.com/users/Zorkiy82)
+### Мой прогресс на Codewars [![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/micro)](https://www.codewars.com/users/Zorkiy82)
 
