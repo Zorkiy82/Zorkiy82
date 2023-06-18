@@ -9,11 +9,13 @@
 ### Мой стек:
 
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)![cypress](https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)![bem](https://img.shields.io/badge/bem-000000.svg?style=for-the-badge&logo=bem&logoColor=white)
-### Мой прогресс на Codewars [![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/micro?theme=light)](https://www.codewars.com/users/Zorkiy82)
+---
+## Мой прогресс на Codewars 
+[![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large)](https://www.codewars.com/users/Zorkiy82)
 
-### 💻 Технологии:
+<!--  ## 💻 Технологии:
 
-<div style="background-color: rgb(0,0,0);">
+<div>
   <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/devicon/react/react-original-wordmark.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/devicon/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -25,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -45,36 +47,20 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
 --- -->
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 
 ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Zorkiy82&theme=dark&background=000000&locale=ru" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="!!!webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zorkiy82&layout=compact&theme=vision-friendly-dark&locale=ru" />
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
