@@ -33,6 +33,10 @@ p    {color: red;}
     
   </div>
 
+  ## Мои контакты2
+
+ [![https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg](https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg)](https://t.me/ogorodnikov_ao)
+
 ## GitHub статистика
 
 <table>
