@@ -1,9 +1,3 @@
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-
 # Добрый день, я Александр 👋
 
 - :nerd_face: Хочу делать цифровой мир качественнее, удобнее и понятнее для всех пользователей
@@ -16,26 +10,22 @@ p    {color: red;}
 
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)![cypress](https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)![bem](https://img.shields.io/badge/bem-000000.svg?style=for-the-badge&logo=bem&logoColor=white)
 
+## Мои контакты
+
+  <div id="badges">
+    <a href="mailto:ogorodnikov.ao@mail.ru" target="_top" >
+      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/email_logo.svg" width="60" height="60" alt="email" />
+    </a>
+    <a href="https://t.me/ogorodnikov_ao" target="_top">
+      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg" width="60" height="60" alt="telegram" />
+    </a>    
+  </div>
+
 ## Мой прогресс на Codewars
 
 [![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large)](https://www.codewars.com/users/Zorkiy82)
 
 
-## Мои контакты
-
-  <div id="badges">
-    <a href="mailto:ogorodnikov.ao@mail.ru" target="_top" >
-      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/email_logo.svg" width="50" height="50" alt="email" />
-    </a>
-        <a href="https://t.me/ogorodnikov_ao" target="_top">
-      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg" width="50" height="50" alt="telegram" />
-    </a>
-    
-  </div>
-
-  ## Мои контакты2
-
- [![https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg](https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg)](https://t.me/ogorodnikov_ao)
 
 ## GitHub статистика
 
