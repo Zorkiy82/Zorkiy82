@@ -15,6 +15,12 @@
 [![Достижения Codewars](https://www.codewars.com/users/Zorkiy82/badges/large)](https://www.codewars.com/users/Zorkiy82)
 
 
+## Мои контакты
+
+[ogorodnikov.ao@mail.ru](ogorodnikov.ao@mail.ru)
+
+[https://t.me/ogorodnikov_ao](https://t.me/ogorodnikov_ao)
+
 ## GitHub статистика
 
 <table>
