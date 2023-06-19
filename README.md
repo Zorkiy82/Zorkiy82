@@ -17,7 +17,7 @@
 
 ## Мои контакты
 
-[ogorodnikov.ao@mail.ru](ogorodnikov.ao@mail.ru)
+[ogorodnikov.ao@mail.ru](email:ogorodnikov.ao@mail.ru)
 
 [https://t.me/ogorodnikov_ao](https://t.me/ogorodnikov_ao)
 
