@@ -1,3 +1,9 @@
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
 # Добрый день, я Александр 👋
 
 - :nerd_face: Хочу делать цифровой мир качественнее, удобнее и понятнее для всех пользователей
@@ -17,18 +23,12 @@
 
 ## Мои контакты
 
-[ogorodnikov.ao@mail.ru](mailto:ogorodnikov.ao@mail.ru)
-
-[https://t.me/ogorodnikov_ao](https://t.me/ogorodnikov_ao)
-
-### 🤝 Социальные сети:
-
   <div id="badges">
-    <a href="mailto:ogorodnikov.ao@mail.ru" target="_blank">
-      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/email_logo.svg" width="40" height="40" alt="linkedin" />
+    <a href="mailto:ogorodnikov.ao@mail.ru" target="_top" >
+      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/email_logo.svg" width="50" height="50" alt="email" />
     </a>
-    <a href="https://t.me/ogorodnikov_ao" target="_blank">
-      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg" width="40" height="40" alt="telegram group" />
+        <a href="https://t.me/ogorodnikov_ao" target="_top">
+      <img src="https://github.com/Zorkiy82/Zorkiy82/blob/main/common/icons/telegram_logo.svg" width="50" height="50" alt="telegram" />
     </a>
     
   </div>
